@@ -8,3 +8,5 @@ def bar_proceso():
         time.sleep(0.2)
         bar1.next()
     bar1.finish()
+
+
